@@ -514,6 +514,7 @@ main .recentOrders a {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .right .salesAnalytics .addProduct:hover {
