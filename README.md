@@ -6,7 +6,7 @@
 
 Esse um Projeto Front-End que simula um **Painel de administração de um E-commerce de Drones.**
 
-Foi aplicado Responsividade e modo claro e escuro
+Foi aplicado  **Responsividade e modo claro e escuro **
 
 ![image](https://user-images.githubusercontent.com/103292517/216840938-f4dec3b8-720f-4d44-b981-cdbfecac2640.png)
 ![image](https://user-images.githubusercontent.com/103292517/216840950-3e2d582c-3541-4526-84aa-04a11f7290ae.png)
@@ -23,4 +23,4 @@ Foi aplicado Responsividade e modo claro e escuro
 
 **João Antônio Magalhaes Barreto Aran**
 
-* https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-72ba7b245/
+* [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-72ba7b245/)
